@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34902.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestion_de_stock", "Gestion_de_stock.csproj", "{AE414157-9A29-4DC8-91B0-F70843AB2AEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		ie|Any CPU = ie|Any CPU
+		ie|x64 = ie|x64
+		ie|x86 = ie|x86
+		ImportExport_project|Any CPU = ImportExport_project|Any CPU
+		ImportExport_project|x64 = ImportExport_project|x64
+		ImportExport_project|x86 = ImportExport_project|x86
+		Lafarge app|Any CPU = Lafarge app|Any CPU
+		Lafarge app|x64 = Lafarge app|x64
+		Lafarge app|x86 = Lafarge app|x86
+		lafarge|Any CPU = lafarge|Any CPU
+		lafarge|x64 = lafarge|x64
+		lafarge|x86 = lafarge|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.Debug|x64.ActiveCfg = Debug|x64
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.Debug|x64.Build.0 = Debug|x64
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.Debug|x86.ActiveCfg = Debug|x86
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.Debug|x86.Build.0 = Debug|x86
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.ie|Any CPU.ActiveCfg = ie|Any CPU
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.ie|Any CPU.Build.0 = ie|Any CPU
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.ie|x64.ActiveCfg = ie|x64
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.ie|x64.Build.0 = ie|x64
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.ie|x86.ActiveCfg = ie|x64
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.ie|x86.Build.0 = ie|x64
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.ImportExport_project|Any CPU.ActiveCfg = ImportExport_project|Any CPU
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.ImportExport_project|Any CPU.Build.0 = ImportExport_project|Any CPU
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.ImportExport_project|x64.ActiveCfg = ImportExport_project|x64
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.ImportExport_project|x64.Build.0 = ImportExport_project|x64
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.ImportExport_project|x86.ActiveCfg = ImportExport_project|x86
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.ImportExport_project|x86.Build.0 = ImportExport_project|x86
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.Lafarge app|Any CPU.ActiveCfg = Lafarge app|Any CPU
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.Lafarge app|Any CPU.Build.0 = Lafarge app|Any CPU
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.Lafarge app|x64.ActiveCfg = Lafarge app|x64
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.Lafarge app|x64.Build.0 = Lafarge app|x64
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.Lafarge app|x86.ActiveCfg = Lafarge app|x64
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.Lafarge app|x86.Build.0 = Lafarge app|x64
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.lafarge|Any CPU.ActiveCfg = lafarge|Any CPU
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.lafarge|Any CPU.Build.0 = lafarge|Any CPU
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.lafarge|x64.ActiveCfg = lafarge|x86
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.lafarge|x64.Build.0 = lafarge|x86
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.lafarge|x86.ActiveCfg = lafarge|x86
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.lafarge|x86.Build.0 = lafarge|x86
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.Release|x64.ActiveCfg = Release|x64
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.Release|x64.Build.0 = Release|x64
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.Release|x86.ActiveCfg = Release|x86
+		{AE414157-9A29-4DC8-91B0-F70843AB2AEE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DE8C41E-0A82-47BC-843F-6E6A012E5A78}
+	EndGlobalSection
+EndGlobal
